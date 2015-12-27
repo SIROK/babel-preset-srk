@@ -1,0 +1,11 @@
+{
+  "name": "babel-preset-srk",
+  "version": "0.0.1",
+  "description": "babel preset for SIROK",
+  "author": "Sota Yamashita <sota_yamashita@sirok.co.jp>",
+  "main": "index.js",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13"
+  }
+}

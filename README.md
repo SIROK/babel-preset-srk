@@ -4,7 +4,7 @@
 
 ## Install
 
-```bash
+```js
 $ npm install --save-dev babel-preset-srk
 ```
 
@@ -12,7 +12,7 @@ $ npm install --save-dev babel-preset-srk
 
 **`.babelrc` (Recommended)**
 
-```
+```json
 {
   "presets": ["srk"]
 }

@@ -2,7 +2,7 @@
 
 > Babel preset for SIROK
 
-_**Heads up!**_ If you are people who work at SIROK and would like to know what kinds of existing presets include, please see [Wiki](https://github.com/SIROK/babel-preset-srk/wiki). There are great resources to understand what it is and how to contribute in Japanese.
+_**Heads up!**_ People in SIROK. If you would like to know what it is and how to contribute, please see [Wiki](https://github.com/SIROK/babel-preset-srk/wiki) which is written in Japanese.
 
 ## Install
 

@@ -1,13 +1,14 @@
 {
   "name": "babel-preset-srk",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "babel preset for SIROK",
   "author": "Sota Yamashita <sota_yamashita@sirok.co.jp>",
   "main": "index.js",
+  "repository": "SIROK/babel-preset-srk",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "babel-preset-es2015": "^6.3.13",
-    "babel-preset-react": "^6.3.13",
-    "babel-preset-stage-0": "^6.3.13"
+    "babel-plugin-transform-class-properties": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.3.13"
   }
 }

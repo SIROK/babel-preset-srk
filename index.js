@@ -4,6 +4,7 @@ module.exports = {
     require("babel-preset-react")
   ],
   plugins: [
+    require("babel-plugin-transform-export-extensions"),
     require("babel-plugin-transform-class-properties")
   ]
 };

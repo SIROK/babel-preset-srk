@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-srk",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "babel preset for SIROK",
   "author": "Sota Yamashita <sota_yamashita@sirok.co.jp>",
   "main": "index.js",
